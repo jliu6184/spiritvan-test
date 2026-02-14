@@ -1,5 +1,8 @@
 # README
 
+# Badges
+[![Maintainability](https://qlty.sh/gh/jliu6184/projects/spiritvan-test/maintainability.svg)](https://qlty.sh/gh/jliu6184/projects/spiritvan-test)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
